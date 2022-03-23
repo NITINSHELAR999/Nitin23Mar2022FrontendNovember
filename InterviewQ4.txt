@@ -1,0 +1,9 @@
+Q4) How can you integrate CSS on a web page?
+
+Ans-
+
+There are three methods to integrate CSS on web pages.
+
+Inline method - It is used to insert style sheets in HTML document
+Embedded/Internal method - It is used to add a unique style to a single document
+Linked/Imported/External method - It is used when you want to make changes on multiple pages.
